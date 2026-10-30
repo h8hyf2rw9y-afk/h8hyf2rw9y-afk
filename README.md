@@ -9,7 +9,7 @@
 <p>
   <a href="https://h8hyf2rw9y-afk.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/emiliano-gonzalez-tech/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/h8hyf2rw9y-afk/StateAI-Overview"><img src="https://img.shields.io/badge/PROPPILOT_CASE_STUDY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="PropPilot case study" /></a>
+  <a href="https://state-ai-frontend.vercel.app/"><img src="https://img.shields.io/badge/LIVE_PRODUCT-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="PropPilot live product" /></a>\n  <a href="https://github.com/h8hyf2rw9y-afk/StateAI-Overview"><img src="https://img.shields.io/badge/CASE_STUDY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="PropPilot case study" /></a>
 </p>
 
 </div>
@@ -51,7 +51,7 @@ An AI-assisted real-estate operations platform designed around real lead, proper
 - Automated tests and CI/CD-oriented delivery
 - Private source; public sanitized architecture case study
 
-[Explore the case study →](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
+[Open the live product →](https://state-ai-frontend.vercel.app/)  \n[Explore the engineering case study →](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +151,7 @@ This combination helps me communicate with technical and non-technical stakehold
 
 Open to conversations about **Forward Deployed Engineering, AI Solutions Engineering, applied AI, and full-stack product delivery**.
 
-[Portfolio](https://h8hyf2rw9y-afk.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/emiliano-gonzalez-tech/) · [PropPilot Case Study](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
+[PropPilot Live](https://state-ai-frontend.vercel.app/) · [Portfolio](https://h8hyf2rw9y-afk.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/emiliano-gonzalez-tech/) · [Engineering Case Study](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,45:6D28D9,100:06B6D4" alt="" />
 
