@@ -119,6 +119,18 @@ It covers architecture, workflow modeling, AI safety boundaries, delivery practi
 
 ---
 
+## Building consistently
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h8hyf2rw9y-afk/h8hyf2rw9y-afk/output/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h8hyf2rw9y-afk/h8hyf2rw9y-afk/output/contributions-light.svg" />
+  <img alt="Animated GitHub contribution history in the PropPilot visual palette" src="https://raw.githubusercontent.com/h8hyf2rw9y-afk/h8hyf2rw9y-afk/output/contributions-light.svg" width="100%" />
+</picture>
+
+<sub>The animation updates automatically every day. Activity from private repositories appears only when GitHub can attribute it to this account and private contributions are enabled.</sub>
+
+---
+
 <details>
 <summary><strong>Technical toolkit</strong></summary>
 
