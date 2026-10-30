@@ -109,6 +109,57 @@ It covers architecture, workflow modeling, AI safety boundaries, delivery practi
 
 ---
 
+## Selected earlier work
+
+<sub>These repositories currently live on my secondary GitHub account and will be consolidated gradually. Each project is labeled by context and ownership.</sub>
+
+<table>
+<tr>
+<td width="34%" valign="top">
+
+### BabyDuck Compiler
+
+**Academic project · Individual implementation**
+
+A multi-stage compiler built with Java, Maven, and ANTLR4: lexical, syntactic, and semantic analysis; intermediate quadruple generation; virtual memory; and execution through a custom virtual machine.
+
+**What I learned:** language design, parsing, type validation, intermediate representation, memory models, and technical documentation.
+
+[Review the compiler →](https://github.com/MasterZendika/BabyDuck-Compiler)
+
+</td>
+<td width="33%" valign="top">
+
+### Autonomous Harvest Simulation
+
+**Academic AI project**
+
+A 2D agricultural simulation exploring autonomous tractor agents for corn harvesting with Unity ML-Agents, C#, and Python.
+
+**What I learned:** agent/environment modeling, reward-driven behavior, simulation design, experimentation, and connecting Unity with an ML workflow.
+
+[Explore the simulation →](https://github.com/MasterZendika/REVISION)
+
+</td>
+<td width="33%" valign="top">
+
+### Raíces
+
+**Personal web project**
+
+A visual graduation experience built with HTML, JavaScript, Tailwind CSS, and static deployment on Vercel.
+
+**What I learned:** visual storytelling, responsive composition, asset-heavy web delivery, interaction design, and deploying a focused static experience.
+
+[Open the live experience →](https://raices-six.vercel.app/)  
+[Review the source →](https://github.com/MasterZendika/raices)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## How I work
 
 | 01 — Discover | 02 — Design | 03 — Deliver | 04 — Improve |
