@@ -1,0 +1,35 @@
+name: Generate contribution animation
+
+on:
+  schedule:
+    - cron: "20 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/contribution-animation.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate PropPilot-inspired contribution animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contributions-light.svg?color_snake=#C45F3B&color_dots=#F4EFE5,#D8CDBD,#D8A13B,#437665,#173F35
+            dist/contributions-dark.svg?color_snake=#D97952&color_dots=#161B19,#33423C,#7F6840,#437665,#91B7A8
+
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
