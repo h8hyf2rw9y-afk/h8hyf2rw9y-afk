@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Emiliano González Romo — Forward Deployed and AI Solutions Engineer</title>
+  <desc id="desc">Editorial banner inspired by PropPilot, showing a workflow from real operations to useful software.</desc>
+  <rect width="1200" height="360" rx="28" fill="#F4EFE5"/>
+  <path d="M0 285C210 235 335 332 565 280C805 226 948 238 1200 170V360H0Z" fill="#E9DFCF"/>
+  <circle cx="1085" cy="72" r="92" fill="#C96F4A" opacity=".16"/>
+  <circle cx="1124" cy="42" r="46" fill="#C96F4A" opacity=".22"/>
+  <rect x="64" y="56" width="116" height="28" rx="14" fill="#173F35"/>
+  <text x="122" y="75" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#F4EFE5">BUILDING NOW</text>
+  <text x="64" y="137" font-family="Georgia,Times New Roman,serif" font-size="51" font-weight="700" fill="#17231F">Software built around</text>
+  <text x="64" y="192" font-family="Georgia,Times New Roman,serif" font-size="51" font-style="italic" fill="#C45F3B">how work really happens.</text>
+  <text x="67" y="238" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#46534E">Emiliano González Romo · Forward Deployed / AI Solutions Engineer</text>
+  <g transform="translate(66 282)">
+    <circle cx="7" cy="7" r="7" fill="#C45F3B"/>
+    <text x="25" y="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#173F35">DISCOVER</text>
+    <path d="M118 7H168" stroke="#8B9A91" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="184" cy="7" r="7" fill="#D8A13B"/>
+    <text x="202" y="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#173F35">DESIGN</text>
+    <path d="M285 7H335" stroke="#8B9A91" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="351" cy="7" r="7" fill="#437665"/>
+    <text x="369" y="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#173F35">DELIVER</text>
+    <path d="M458 7H508" stroke="#8B9A91" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="524" cy="7" r="7" fill="#173F35"/>
+    <text x="542" y="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#173F35">IMPROVE</text>
+  </g>
+  <g transform="translate(870 94)">
+    <rect width="252" height="168" rx="20" fill="#FFFDF8" stroke="#D9CDBD" stroke-width="2"/>
+    <rect x="22" y="22" width="88" height="10" rx="5" fill="#173F35"/>
+    <rect x="22" y="46" width="160" height="7" rx="3.5" fill="#D8CDBD"/>
+    <rect x="22" y="78" width="208" height="48" rx="12" fill="#F4EFE5"/>
+    <circle cx="44" cy="102" r="9" fill="#C45F3B"/>
+    <rect x="64" y="94" width="92" height="7" rx="3.5" fill="#173F35"/>
+    <rect x="64" y="108" width="126" height="6" rx="3" fill="#A99E8F"/>
+    <rect x="22" y="143" width="72" height="9" rx="4.5" fill="#437665"/>
+    <rect x="103" y="143" width="48" height="9" rx="4.5" fill="#D8A13B"/>
+  </g>
+</svg>
