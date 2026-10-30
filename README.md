@@ -1,120 +1,143 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:6D28D9,100:06B6D4&text=Emiliano%20González%20Romo&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Forward%20Deployed%20%7C%20AI%20Solutions%20Engineer&descAlignY=59&descSize=18&animation=fadeIn" alt="Emiliano González Romo — Forward Deployed and AI Solutions Engineer" />
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&lines=I+turn+customer+problems+into+deployed+software.;Applied+AI+%C2%B7+Full-Stack+Systems+%C2%B7+Product+Delivery;Building+PropPilot+for+real-estate+operations." alt="Typing introduction" />
-</a>
-
-<p>
-  <a href="https://h8hyf2rw9y-afk.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/emiliano-gonzalez-tech/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://state-ai-frontend.vercel.app/"><img src="https://img.shields.io/badge/LIVE_PRODUCT-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="PropPilot live product" /></a>\n  <a href="https://github.com/h8hyf2rw9y-afk/StateAI-Overview"><img src="https://img.shields.io/badge/CASE_STUDY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="PropPilot case study" /></a>
-</p>
-
+  <img src="./assets/profile-hero.svg" width="100%" alt="Emiliano González Romo — software built around how work really happens" />
 </div>
 
-## What I build
-
-I work at the intersection of **customer discovery, product engineering, and applied AI**. My focus is understanding an operational problem, translating it into a reliable system, deploying it, and improving it with real user feedback.
-
-```text
-Customer workflow → Product requirements → System design → Delivery → Adoption
-```
-
-- Build full-stack products around real business workflows.
-- Translate conversations with users and stakeholders into technical requirements.
-- Design secure AI-assisted features with explicit data boundaries.
-- Ship through version-controlled, tested, and repeatable delivery processes.
-- Connect product decisions to measurable operational value.
-
-## Featured work
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="64%" valign="top">
 
-### 🏠 PropPilot / StateAI
+### I turn operational complexity into useful software.
 
-**Independent product · Lead engineering**
+I work between **customers, product, and engineering**: understanding how a team actually operates, translating that reality into a system, and carrying it from an unclear problem to a deployed product.
 
-An AI-assisted real-estate operations platform designed around real lead, property, debt, offer, appointment, and follow-up workflows.
+My strongest work combines:
 
-**My role:** product discovery, architecture, data modeling, frontend, backend, AI boundaries, testing, security, and delivery.
-
-**Highlights**
-
-- Next.js/React frontend and FastAPI backend
-- PostgreSQL data model and Alembic migrations
-- Conversational workflows with structured intents
-- Role-aware access and sensitive-field boundaries
-- Automated tests and CI/CD-oriented delivery
-- Private source; public sanitized architecture case study
-
-[Open the live product →](https://state-ai-frontend.vercel.app/)  \n[Explore the engineering case study →](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
+- direct customer and workflow discovery;
+- full-stack product delivery;
+- applied AI with explicit human and data boundaries;
+- technical decisions connected to business outcomes.
 
 </td>
-<td width="50%" valign="top">
+<td width="36%" valign="top">
 
-### ✦ Engineering Portfolio
+### Current focus
 
-**Public project · Personal portfolio**
+**Forward Deployed Engineering**  
+**AI Solutions Engineering**  
+**Full-Stack Product Delivery**
 
-A responsive portfolio that presents selected projects, experience, and technical decisions through an accessible recruiter-focused interface.
-
-**Highlights**
-
-- React, TypeScript, and Vite
-- Expandable project and experience stories
-- Multilingual presentation
-- Responsive desktop and mobile layouts
-- Privacy-conscious handling of personal information
-- Published with GitHub Pages
-
-[View the live portfolio →](https://h8hyf2rw9y-afk.github.io/Portfolio/)  
-[Review the source →](https://github.com/h8hyf2rw9y-afk/Portfolio)
+Monterrey, Mexico · Open to remote and international teams
 
 </td>
 </tr>
 </table>
 
-## How I approach delivery
+<p>
+  <a href="https://state-ai-frontend.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PROPPILOT-173F35?style=flat-square&logo=vercel&logoColor=white" alt="Open PropPilot" /></a>
+  <a href="https://h8hyf2rw9y-afk.github.io/Portfolio/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-C45F3B?style=flat-square&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
+  <a href="https://www.linkedin.com/in/emiliano-gonzalez-tech/"><img src="https://img.shields.io/badge/LINKEDIN-437665?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-| Stage | What I do |
+---
+
+## Selected work
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### PropPilot · StateAI
+
+**Independent product · Lead engineering**
+
+A vertical SaaS for real-estate acquisition and property-flipping operations. PropPilot connects lead capture, property files, debt context, proposals, negotiation, follow-up, and post-acquisition operations in one workflow.
+
+I own the path from operational discovery to product definition, architecture, full-stack implementation, AI boundaries, security, testing, and delivery.
+
+**Built around**
+
+`Next.js` · `React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Supabase` · `Python`
+
+[Open the live product →](https://state-ai-frontend.vercel.app/)  
+[Read the engineering case study →](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
+
+</td>
+<td width="42%" valign="top">
+
+### What makes it different
+
+PropPilot was not designed from a generic CRM template. It came from observing real acquisition work: fragmented messages, incomplete files, debt calculations, handoffs, proposals, and follow-up that usually live across spreadsheets and memory.
+
+The product turns that ambiguity into a visible operating process while keeping sensitive decisions under human control.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Engineering Portfolio
+
+A recruiter-focused portfolio covering selected projects, experience, and technical decisions.
+
+- Responsive desktop and mobile design
+- English and Spanish presentation
+- Expandable project narratives
+- Privacy-conscious contact handling
+- Automated GitHub Pages deployment
+
+[View the portfolio →](https://h8hyf2rw9y-afk.github.io/Portfolio/)
+
+</td>
+<td width="50%" valign="top">
+
+### Public engineering case study
+
+The production repositories for PropPilot remain private. The public case study explains the verified scope without exposing credentials, prompts, schemas, client records, or proprietary source code.
+
+It covers architecture, workflow modeling, AI safety boundaries, delivery practices, and my ownership.
+
+[Explore StateAI-Overview →](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
+
+</td>
+</tr>
+</table>
+
+---
+
+## How I work
+
+| 01 — Discover | 02 — Design | 03 — Deliver | 04 — Improve |
+|---|---|---|---|
+| Observe the real workflow and define the outcome. | Turn ambiguity into requirements, models, interfaces, and boundaries. | Build a useful vertical slice across product and engineering. | Validate with users, measure friction, and prioritize the next iteration. |
+
+> I am most useful where the problem is still partially undefined and the solution has to work for real people—not only pass a technical demo.
+
+---
+
+<details>
+<summary><strong>Technical toolkit</strong></summary>
+
+<br/>
+
+| Area | Tools and practices |
 |---|---|
-| **Discover** | Map the user, business constraint, current workflow, and expected outcome. |
-| **Design** | Convert ambiguity into requirements, data models, interfaces, and security boundaries. |
-| **Build** | Implement the smallest useful vertical slice across frontend, backend, and infrastructure. |
-| **Validate** | Test behavior, review edge cases, and compare the result with the real workflow. |
-| **Deploy & iterate** | Automate delivery where practical, observe usage, and prioritize the next improvement. |
+| Product engineering | TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS |
+| Backend and data | Python, FastAPI, Pydantic, PostgreSQL, Supabase, SQLAlchemy, Alembic |
+| Cloud and delivery | Docker, GitHub Actions, AWS, Google Cloud, Vercel |
+| Applied AI | Structured extraction, contextual retrieval, workflow assistants, human-in-the-loop actions |
+| Engineering practice | Git, automated testing, CI/CD, technical documentation, iterative delivery |
 
-## Technical toolkit
+</details>
 
-<div align="center">
+<details>
+<summary><strong>Experience perspective</strong></summary>
 
-**Product & Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS" />
-
-**Backend, Data & Cloud**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase,docker,aws,gcp&theme=dark" alt="Python, FastAPI, PostgreSQL, Supabase, Docker, AWS, Google Cloud" />
-
-**Engineering Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,figma&theme=dark" alt="Git, GitHub, GitHub Actions, Linux, Figma" />
-
-</div>
-
-## Applied AI, with boundaries
-
-My AI work centers on **structured extraction, conversational workflows, and decision support**. I separate information that an AI feature may process from fields that should never be sent to an external model, validate model outputs before persistence, and keep deterministic business rules outside the LLM.
-
-This approach is documented in the [PropPilot architecture case study](https://github.com/h8hyf2rw9y-afk/StateAI-Overview).
-
-## Experience perspective
-
-My background connects engineering with product, operations, and client-facing work:
+<br/>
 
 - **Crestify** — Founding Engineer / Co-Founder
 - **Wizeline** — Full-Stack Developer Intern
@@ -122,37 +145,31 @@ My background connects engineering with product, operations, and client-facing w
 - **Softtek** — Technology & Business Project Analyst
 - **Arca Continental** — Junior Special Project Manager Intern
 
-This combination helps me communicate with technical and non-technical stakeholders and stay accountable for outcomes beyond implementation.
+This mix of product, engineering, operations, and customer-facing work shapes how I build: technical decisions must remain understandable to stakeholders and useful to the people operating the system.
 
-## Currently learning
+</details>
+
+<details>
+<summary><strong>Current learning</strong></summary>
+
+<br/>
 
 - Linux foundations
-- Model Context Protocol: fundamentals and advanced topics
+- Model Context Protocol — fundamentals and advanced topics
 - Claude Code workflows
 - Agent Skills
 - AI Fluency for Builders
 
-> Coursework listed here is in progress unless explicitly marked as completed.
+*Coursework is in progress unless explicitly marked as completed.*
 
-## GitHub snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=h8hyf2rw9y-afk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="Emiliano's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h8hyf2rw9y-afk&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=6" alt="Most used languages" />
-
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-### Let’s build software that survives contact with the real workflow.
+### Useful software begins with understanding the work.
 
-Open to conversations about **Forward Deployed Engineering, AI Solutions Engineering, applied AI, and full-stack product delivery**.
-
-[PropPilot Live](https://state-ai-frontend.vercel.app/) · [Portfolio](https://h8hyf2rw9y-afk.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/emiliano-gonzalez-tech/) · [Engineering Case Study](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,45:6D28D9,100:06B6D4" alt="" />
+[PropPilot](https://state-ai-frontend.vercel.app/) · [Portfolio](https://h8hyf2rw9y-afk.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/emiliano-gonzalez-tech/) · [Engineering Case Study](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
 
 </div>
