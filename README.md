@@ -50,16 +50,16 @@ Monterrey, Mexico · Open to remote and international teams
 
 ### Oniria · Founder
 
-**Early-stage software studio and consultancy**
+**Software company and product consultancy**
 
 Oniria helps teams turn operational problems into practical software—from discovery and workflow design to architecture, implementation, security, CI/CD, and delivery.
 
-The studio is intentionally broader than a single product. **PropPilot is its first vertical SaaS product and proving ground**, focused on real-estate acquisition and property-flipping operations.
+The company is intentionally broader than a single product. **PropPilot is its first vertical platform**, currently operating inside Crestify and being prepared for additional real-estate companies.
 
 </td>
 <td width="42%" valign="top">
 
-### What Oniria is building toward
+### What Oniria builds
 
 A small, product-minded engineering partner for organizations that need more than isolated code: clear requirements, useful interfaces, maintainable systems, and technology connected to measurable work.
 
@@ -75,13 +75,13 @@ A small, product-minded engineering partner for organizations that need more tha
 <tr>
 <td width="58%" valign="top">
 
-### PropPilot · StateAI
+### PropPilot · Oniria
 
-**Independent product · Lead engineering**
+**Oniria product · Founder and lead engineering**
 
-A vertical SaaS for real-estate acquisition and property-flipping operations. PropPilot connects lead capture, property files, debt context, proposals, negotiation, follow-up, and post-acquisition operations in one workflow.
+A working platform for real-estate acquisition and property-flipping operations. PropPilot connects contacts, property files, debt context, proposals, negotiation, follow-up, and controlled AI assistance in one workflow.
 
-I own the path from operational discovery to product definition, architecture, full-stack implementation, AI boundaries, security, testing, and delivery.
+I owned the path from operational discovery to product definition, architecture, full-stack implementation, AI boundaries, security, testing, and deployment. The product now operates inside Crestify.
 
 **Built around**
 
@@ -128,7 +128,7 @@ The production repositories for PropPilot remain private. The public case study 
 
 It covers architecture, workflow modeling, AI safety boundaries, delivery practices, and my ownership.
 
-[Explore StateAI-Overview →](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
+[Explore the PropPilot engineering case study →](https://github.com/h8hyf2rw9y-afk/StateAI-Overview)
 
 </td>
 </tr>
