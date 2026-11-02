@@ -48,6 +48,33 @@ Monterrey, Mexico · Open to remote and international teams
 <tr>
 <td width="58%" valign="top">
 
+### Oniria · Founder
+
+**Early-stage software studio and consultancy**
+
+Oniria helps teams turn operational problems into practical software—from discovery and workflow design to architecture, implementation, security, CI/CD, and delivery.
+
+The studio is intentionally broader than a single product. **PropPilot is its first vertical SaaS product and proving ground**, focused on real-estate acquisition and property-flipping operations.
+
+</td>
+<td width="42%" valign="top">
+
+### What Oniria is building toward
+
+A small, product-minded engineering partner for organizations that need more than isolated code: clear requirements, useful interfaces, maintainable systems, and technology connected to measurable work.
+
+**Current focus**
+
+`Software consulting` · `Full-stack delivery` · `Applied AI` · `Workflow systems`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ### PropPilot · StateAI
 
 **Independent product · Lead engineering**
@@ -254,6 +281,7 @@ A React-based interface for uploading and analyzing documents, presenting result
 
 <br/>
 
+- **Oniria** — Founder
 - **Crestify** — Founding Engineer / Co-Founder
 - **Wizeline** — Full-Stack Developer Intern
 - **Nodoo** — Sales Engineer
