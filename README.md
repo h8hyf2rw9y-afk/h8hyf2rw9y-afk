@@ -158,6 +158,58 @@ A visual graduation experience built with HTML, JavaScript, Tailwind CSS, and st
 </tr>
 </table>
 
+
+<table>
+<tr>
+<td width="34%" valign="top">
+
+### HackMTY · Capital One Challenge
+
+**Hackathon project · Team collaboration**
+
+A financial-literacy and customer-engagement prototype built during HackMTY 2023 for the Capital One challenge. The team worked under a 48-hour deadline to turn an open brief into a functional web experience.
+
+**My contribution:** frontend development, interaction design, and integration work around financial data.
+
+**What it demonstrates:** rapid prototyping, collaborative delivery, API-driven product development, and decision-making under time pressure.
+
+[Review the team repository →](https://github.com/EstebanAleman21/404_NOTFOUND)  
+[Learn about HackMTY →](https://hackmty.com/)
+
+</td>
+<td width="33%" valign="top">
+
+### Dilo en Señas
+
+**Accessibility project · Team collaboration**
+
+A cross-platform mobile experience designed to help bridge communication with the deaf community through text-to-sign-language translation.
+
+**My contribution:** accessible UI development, API integration, and attention to a clear, security-conscious user experience.
+
+**What it demonstrates:** inclusive product thinking, React Native development, real-time interaction design, and building technology around a concrete human need.
+
+[Review the team repository →](https://github.com/AlonsoM207/Reto_Equipo1)
+
+</td>
+<td width="33%" valign="top">
+
+### FRIDA PDF Analyst
+
+**Document intelligence project · Team collaboration**
+
+A React-based interface for uploading and analyzing documents, presenting results such as summaries, indexes, figures, word frequency, and related terms in a navigable workflow.
+
+**What it solves:** reduces the friction of reviewing long documents by organizing analysis into focused, accessible views.
+
+**What it demonstrates:** multi-step frontend workflows, file-upload UX, API-connected interfaces, authentication flows, and presenting structured analysis clearly.
+
+[Review the team repository →](https://github.com/Spooderman0/pdf-reader)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## How I work
